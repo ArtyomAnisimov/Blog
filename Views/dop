@@ -1,0 +1,11 @@
+<div class="d-flex justify-content-end">
+  <div class="mr-auto p2"></div>
+  <ul class="navbar-nav mt-auto d-flex justify-content-end">
+    <li class="nav-item dropdown">
+      <a class="navlink dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <span class="glyphicon glyphicon-user"></span>
+        My Accuont<strong class="caret"></strong>
+      </a><!--end of dropdown MyAccount-->
+    </li><!-- end of nav-item dropdown-->
+  </ul><!--end of ul right nav-bar-->
+</div><!--end rigt div-->
